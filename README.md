@@ -1,3 +1,7 @@
+## 😄 Hello, my name is Leonardo Reis. Welcome to my Github profile!
+- I am a beginner fullstack developer.
+- I am open to learn and <a href="https://www.youtube.com/@reisleonardo">teach</a> what I've learnt!
+- I am also open to job opportunies, send me an email!
 
 ## 📊 Stats and most used languages
 <div align="center">
@@ -13,4 +17,4 @@
 
 ##
 
-🗓️ Last update: October 17th 2023
+🗓️ Last update: October 21th 2023
