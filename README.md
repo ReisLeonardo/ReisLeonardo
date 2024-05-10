@@ -2,6 +2,7 @@
 - I am a beginner fullstack developer.
 - I am open to learn and <a href="https://www.youtube.com/@reisleonardo">teach</a> what I've learnt!
 - I am also open to job opportunies, send me an email!
+- I can speak Brazilian Portuguese, American English and Latin American Spanish!
 
 ## 📊 Stats and most used languages
 <div align="center">
@@ -17,4 +18,4 @@
 
 ##
 
-🗓️ Last update: October 21th 2023
+🗓️ Last update: May 10th 2024
