@@ -3,7 +3,6 @@
 - I am a beginner fullstack developer.
 - I am open to learn and teach what I've learnt!
 - I am also open to job opportunies, send me an email!
-- I can speak Brazilian Portuguese, American English and Latin American Spanish! Yes, I also love languages!
 
 ## 📊 Stats and most used languages
 <div align="center">
@@ -19,4 +18,4 @@
 
 ##
 
-🗓️ Last update: June 21th 2024
+🗓️ Last update: June 29th 2024
