@@ -13,9 +13,11 @@
 <div> 
   <a href="https://www.youtube.com/@reisleonardo" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:leonardoreisemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardoreisconceicao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/leonardoreisconceicao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ##
 
-🗓️ Last update: June 29th 2024
+[![](https://visitcount.itsvg.in/api?id=ReisLeonardo&label=Profile%20Views&color=12&icon=3&pretty=false)](https://visitcount.itsvg.in)
+<br>
+🗓️ Last update: July 1st 2024
