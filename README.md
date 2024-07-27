@@ -4,6 +4,8 @@
 - I am open to learn and teach what I've learnt!
 - I am also open to job opportunies, send me an email!
 
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+
 ## 📊 Stats and most used languages
 <div align="center">
   <a href="https://github.com/ReisLeonardo">
@@ -20,4 +22,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=ReisLeonardo&label=Profile%20Views&color=12&icon=3&pretty=false)](https://visitcount.itsvg.in)
 <br>
-🗓️ Last update: July 1st 2024
+🗓️ Last update: July 27th 2024
